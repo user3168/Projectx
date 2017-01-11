@@ -64,924 +64,13 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="652055ad-328c-4357-982f-1a66b58f737d" name="Default" comment="sales kanvas ok, perbaikan ok, gambar product ok.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../App1.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/add_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/add_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/add_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/all_customers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/all_customers_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/all_customers_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/all_items.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/all_items_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/all_items_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/all_promotions.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/all_promotions_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/all_promotions_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/allcustomer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/allcustomer_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/allcustomer_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/app_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/aurora_splash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/back_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/back_dis_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/back_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/back_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/back_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/backup_data_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/backup_data_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/backup_data_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/balance_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/balance_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/balance_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/battery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/battery_status.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/battery_status_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/battery_status_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/blackline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/bluetooth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/bluetooth_paired.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/btn_bg_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/btn_bg_pressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/btn_bg_unpressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/btn_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/btn_help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/btn_home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cancel_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cancel_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cancel_order_docs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cancel_order_docs_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cancel_order_docs_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cancel_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cancel_sale_docs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cancel_sale_docs_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cancel_sale_docs_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/change_seq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/change_seq_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/change_seq_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/chkbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/chkbox_unchkd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/chng_password.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/chng_password_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/chng_password_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/clear_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/clear_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/clear_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/collection_report.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/collection_report_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/collection_report_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/conf_settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/conf_settings_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/conf_settings_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/contract_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/contract_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/contract_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/create_invoice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/create_invoice_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/create_invoice_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/create_order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/create_order_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/create_order_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/create_receipt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/create_receipt_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/create_receipt_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_autho_items.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_feedback.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_feedback_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_feedback_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_operations.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_operations_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_operations_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_pending_action.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_pending_action_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/cust_pending_action_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/custautho_items_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/custautho_items_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_authorised.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_authorised_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_authorised_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_by_day.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_by_day_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_by_day_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_day.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_day_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_day_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_visit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_visit_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/customer_visit_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/custvisitsummary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/custvisitsummary_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/custvisitsummary_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/daily_customer_visit_chart.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/daily_customer_visit_chart_dis.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/daily_customer_visit_chart_sel.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/data_transfer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/data_transfer_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/del_dis_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/del_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/del_mod_invoice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/del_mod_invoice_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/del_mod_invoice_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/del_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delete_order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delete_order_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delete_order_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delete_receipt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delete_receipt_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delete_receipt_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_bad_returninvoice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_bad_returninvoice_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_bad_returninvoice_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_bad_returnorder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_bad_returnorder_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_bad_returnorder_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_good_returninvoice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_good_returninvoice_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_good_returninvoice_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_good_returnorder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_good_returnorder_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/delmod_good_returnorder_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/download_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/download_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/dropdown_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/dropdown_bg_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/dropdown_report_nd_chart.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/end_route.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/end_route_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/end_route_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/exit_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/exit_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/exit_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/exit_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/exit_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/exit_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/expenses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/expenses_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/expenses_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/full_upload_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/full_upload_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/full_upload_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/fulltransfer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/get_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/get_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/get_icn_prcd_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ic_plusone_medium_off_client.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ic_plusone_small_off_client.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ic_plusone_standard_off_client.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ic_plusone_tall_off_client.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon_lang_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon_lang_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon_lang_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon_take_picture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon_take_picture_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon_take_picture_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon_view_pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon_view_pic_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/icon_view_pic_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/info_review.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/info_review_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/info_review_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/input_box_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/input_box_bg_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/inventori.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/inventory.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/inventory_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/inventory_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice_bad_return.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice_bad_return_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice_bad_return_disl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice_bad_return_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice_return.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice_return_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice_return_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/invoice_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/items.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/items_cat_wise_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/items_cat_wise_summary_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/items_cat_wise_summary_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/items_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/items_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/kanvas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/lead_management.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/lead_management_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/lead_management_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/load_products.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/load_products_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/load_products_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/load_request_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/load_request_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/load_request_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/load_unload_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/load_unload_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/load_unload_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/loadrequesttransfer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/loadunloadtransfer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/location.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/login_block_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/manage_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/manage_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/manage_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/map_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/map_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/map_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/message_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/message_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/message_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/mngcustomer_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/mngcustomer_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/mngcustomer_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/more_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/more_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/move_down_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/move_down_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/move_down_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/move_up_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/move_up_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/move_up_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/msg_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/msg_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/msg_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/no_action_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/no_action_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/no_action_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/noimage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ok_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ok_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ok_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/operation_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/operation_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/operation_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_bad_ret.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_bad_ret_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_bad_ret_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_details.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_details_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_details_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_good_ret.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_good_ret_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_good_ret_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_summary_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/order_summary_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/orders.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ordertoinvoice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ordertoinvoice_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/ordertoinvoice_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/others.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/others_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/others_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/package_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/package_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/package_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/package_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/package_icon_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/package_icon_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/pen_alignment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/pen_alignment_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/pen_alignment_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/physical_counting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/physical_counting_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/physical_counting_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/planogram_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/planogram_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/planogram_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/popup_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/popup_textbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/popup_textbox_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/popup_title_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/pos_stock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/pos_stock_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/pos_stock_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/print_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/print_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/print_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/print_save_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/print_save_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/print_save_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/product_catalogue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/product_catalogue_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/product_catalogue_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_icon_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_icon_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotion_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotions_by_customer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotions_by_customer_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/promotions_by_customer_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/rack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/rack_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/rack_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/radio_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/radio_btn_slct.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/read.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/receipt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/receipt_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/receipt_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/red1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/refresh_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/refresh_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/refresh_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/reports.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/reports_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/reports_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/reprint_docs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/reprint_docs_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/reprint_docs_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/req.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/reqload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/request_load.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/request_load_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/request_load_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/restart_app.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/restart_app_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/restart_app_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/restore_data_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/restore_data_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/restore_data_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/retur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_detail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_detail_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_detail_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_history.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_history_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_history_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_return.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_return_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_return_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_summary_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sales_summary_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/save_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/save_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/save_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/scan_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/scan_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/scan_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/search_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/search_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/search_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/sep_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/show_summary_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/show_summary_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/show_summary_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/show_summary_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/site_pictures.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/site_pictures_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/site_pictures_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/skip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/splash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/start_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/start_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/start_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/start_route.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/start_route_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/start_route_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/stock_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/stock_summary_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/stock_summary_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/survey_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/survey_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/survey_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/table_head.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/table_row.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/target_sales.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/target_sales_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/target_sales_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/text_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/text_box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/title_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/topbar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/un_load_products.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/un_load_products_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/un_load_products_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unload_bad_return.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unload_bad_return_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unload_bad_return_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unload_good_return.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unload_good_return_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unload_good_return_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unread.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unread_dis_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unread_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/unread_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/upload_orders_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/upload_orders_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/upload_orders_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/upload_stock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/upload_stock_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/upload_stock_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/uploadorders.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/vanstockreport.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/vanstockreport_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/vanstockreport_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/view_dis_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/view_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/view_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/vpi__tab_selected_focused_holo.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/vpi__tab_selected_holo.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/vpi__tab_selected_pressed_holo.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/vpi__tab_unselected_focused_holo.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/vpi__tab_unselected_holo.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/vpi__tab_unselected_pressed_holo.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/weekly_customer_visit.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/weekly_customer_visit_dis.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-hdpi/weekly_customer_visit_sel.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-mdpi/ic_launcher1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/add_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/add_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/add_icon_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/add_icon_process.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/add_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/all_customers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/all_customers_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/all_customers_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/all_item.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/all_item_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/all_item_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/allcustomer_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/back_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/back_dis_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/back_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/back_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/back_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/backup_data.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/backup_data_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/backup_data_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/bad_rtrn_order_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/bad_rtrn_order_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/bad_rtrn_order_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/balance_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/balance_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/balance_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/battery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/battery_status.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/battery_status_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/battery_status_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/bkp_restore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/bkp_restore_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/bkp_restore_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/blackline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/bluetooth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/bluetooth_paired.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_bg_dis.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_bg_pressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_bg_unpressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_cancel_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_cancel_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_exit_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_exit_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_ok_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/btn_ok_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel_icon_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel_icon_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel_order_docs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel_order_docs_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel_order_docs_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel_sale_docs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel_sale_docs_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cancel_sale_docs_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/change_seq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/change_seq_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/change_seq_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/chk_no.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/chk_yes.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/chkbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/chkbox_unchkd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/chng_password.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/chng_password_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/chng_password_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/clear_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/clear_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/clear_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/collection_report.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/collection_report_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/collection_report_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/conf_settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/conf_settings_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/conf_settings_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/conf_settings_sell.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/contract_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/contract_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/contract_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/create_invoice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/create_invoice_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/create_invoice_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/create_receipt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/create_receipt_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/create_receipt_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cust_feedback.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cust_feedback_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cust_feedback_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cust_operations.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cust_operations_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cust_operations_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cust_pending_action.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cust_pending_action_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/cust_pending_action_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_authorised.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_authorised_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_authorised_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_day.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_day_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_day_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_visit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_visit_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/customer_visit_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/daily_customer_visit_chart.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/daily_customer_visit_chart_dis.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/daily_customer_visit_chart_sel.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/data_transfer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/data_transfer_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/data_transfer_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/del_dis_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/del_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/del_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/del_mod_invoice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/del_mod_invoice_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/del_mod_invoice_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/del_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/del_process_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/delete_receipt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/delete_receipt_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/delete_receipt_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/download_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/download_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/dropdown_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/dropdown_bg_dis.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/end_route.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/end_route_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/end_route_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/exit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/exit_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/exit_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/exit_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/exit_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/exit_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/exit_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/expenses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/expenses_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/expenses_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/full_upload_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/full_upload_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/full_upload_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/fulltransfer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/get_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/get_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/get_icn_prcd_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon_lang_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon_lang_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon_lang_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon_take_picture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon_take_picture_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon_take_picture_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon_view_pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon_view_pic_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/icon_view_pic_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/info_review.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/info_review_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/info_review_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/input_box_bg.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/input_box_bg_dis.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/inventory.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/inventory_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/inventory_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/invoice_bad_return.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/invoice_bad_return_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/invoice_bad_return_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/invoice_return.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/invoice_return_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/invoice_return_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/items.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/items_cat_wise_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/items_cat_wise_summary_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/items_cat_wise_summary_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/items_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/items_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/lead_management.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/lead_management_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/lead_management_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_products.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_products_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_products_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_request.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_request_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_request_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_request_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_request_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_request_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_unload_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_unload_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/load_unload_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/loadrequesttransfer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/loadunloadtransfer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/location.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/login_block_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/logout_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/logout_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/logout_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/manage_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/manage_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/manage_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/map_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/map_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/map_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/message_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/message_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/message_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/mngcustomer_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/mngcustomer_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/mngcustomer_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/more_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/more_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/move_down_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/move_down_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/move_down_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/move_up_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/move_up_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/move_up_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/msg_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/msg_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/msg_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/no.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/no_action_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/no_action_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/no_action_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/noimage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/ok_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/ok_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/ok_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/operation_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/operation_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/operation_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_bad_ret.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_bad_ret_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_bad_ret_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_details.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_details_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_details_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_good_ret.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_good_ret_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_good_ret_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_summary_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/order_summary_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/orders.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/others.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/others_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/others_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/package_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/package_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/package_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/package_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/package_icon_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/package_icon_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/physical_counting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/physical_counting_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/physical_counting_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/planogram_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/planogram_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/planogram_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/popup_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/popup_textbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/popup_textbox_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/popup_title_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/pos_stock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/pos_stock_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/pos_stock_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/print_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/print_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/print_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/print_save_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/print_save_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/print_save_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/product_catalogue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/product_catalogue_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/product_catalogue_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_by_custmr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_by_custmr_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_by_custmr_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_icon_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_icon_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/promotion_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/rack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/rack_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/rack_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/radio_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/radio_btn_slct.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/radio_title_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/read.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/refresh_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/refresh_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/refresh_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/reports.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/reports_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/reports_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/reprint_docs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/reprint_docs_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/reprint_docs_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/request_load.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/request_load_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/request_load_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/restart_app.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/restart_app_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/restart_app_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/restart_app_sell.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/restore_data_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/restore_data_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/restore_data_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_det_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_det_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_det_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_history.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_history_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_history_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_return.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_return_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_return_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_summary_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sales_summary_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/save_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/save_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/save_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/scan_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/scan_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/scan_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/search_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/search_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/search_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/sep_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/show_summary_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/show_summary_btn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/show_summary_btn_pressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/site_pictures.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/site_pictures_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/site_pictures_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/skip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/splash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/start_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/start_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/start_icn_prcd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/start_route.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/start_route_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/start_route_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/stock_summary.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/stock_summary_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/stock_summary_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/survey_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/survey_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/survey_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/table_head.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/target_sales.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/target_sales_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/target_sales_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/text_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/title_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/topbar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/transfer_in_out.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/transfer_in_out_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/transfer_in_out_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/un_load_products.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/un_load_products_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/un_load_products_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/unread.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/unread_dis_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/unread_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/unread_msg_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/unread_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/upload_orders_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/upload_orders_icn_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/upload_orders_icn_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/upload_stock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/upload_stock_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/upload_stock_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/uploadorders.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/van.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/vanstockreport.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/vanstockreport_dis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/vanstockreport_sel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/view_dis_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/view_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/view_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/view_process_icn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/view_process_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/weekly_customer_visit.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/weekly_customer_visit_dis.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/weekly_customer_visit_sel.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-sw600dp-v13/yes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable-xhdpi/ic_launcher2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable/logomobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable/management.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable/merch.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/drawable/spv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/inventory.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/AppMobile.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/layout/activity_main_inventory_old.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/layout/activity_main_sales_to.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/layout/activity_popup_image_supplier.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/res/layout/list_item_add_sales_to.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/contact/ContactActivty.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/contact/DetailContact.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/database/DatabaseHandler_old.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/utils/CONFIG.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainApp/MainApp.apk" afterPath="$PROJECT_DIR$/MainApp/MainApp.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MainApp/MainApp.apk" afterPath="$PROJECT_DIR$/out/production/MainApp/MainApp.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MainApp/android/support/v7/appcompat/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/MainApp/android/support/v7/appcompat/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MainApp/com/google/android/gms/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/MainApp/com/google/android/gms/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MainApp/com/mahkota_company/android/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/MainApp/com/mahkota_company/android/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/android-support-v7-appcompat/android/support/v7/appcompat/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/android-support-v7-appcompat/android/support/v7/appcompat/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/google-play-services_lib/com/google/android/gms/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/google-play-services_lib/com/google/android/gms/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="652055ad-328c-4357-982f-1a66b58f737d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainApp/gen/com/mahkota_company/android/BuildConfig.java" afterPath="$PROJECT_DIR$/MainApp/gen/com/mahkota_company/android/BuildConfig.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/utils/CONFIG.java" afterPath="$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/utils/CONFIG.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android-support-v7-appcompat/gen/android/support/v7/appcompat/BuildConfig.java" afterPath="$PROJECT_DIR$/android-support-v7-appcompat/gen/android/support/v7/appcompat/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/gen/com/google/android/gms/BuildConfig.java" afterPath="$PROJECT_DIR$/google-play-services_lib/gen/com/google/android/gms/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recyclerview/gen/android/support/v7/recyclerview/BuildConfig.java" afterPath="$PROJECT_DIR$/recyclerview/gen/android/support/v7/recyclerview/BuildConfig.java" />
     </list>
     <ignored path="App1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1012,7 +101,35 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="5440">
               <caret line="391" column="50" selection-start-line="391" selection-start-column="50" selection-end-line="391" selection-end-column="50" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#15217#15218#0" expanded="false" />
+                <element signature="e#15259#15260#0" expanded="false" />
+                <element signature="e#15878#15879#0" expanded="false" />
+                <element signature="e#15920#15921#0" expanded="false" />
+                <element signature="e#16329#16330#0" expanded="false" />
+                <element signature="e#16369#16370#0" expanded="false" />
+                <element signature="e#16584#16585#0" expanded="false" />
+                <element signature="e#16620#16621#0" expanded="false" />
+                <element signature="e#19858#19859#0" expanded="false" />
+                <element signature="e#19900#19901#0" expanded="false" />
+                <element signature="e#20486#20487#0" expanded="false" />
+                <element signature="e#20526#20527#0" expanded="false" />
+                <element signature="e#20809#20810#0" expanded="false" />
+                <element signature="e#20849#20850#0" expanded="false" />
+                <element signature="e#21081#21082#0" expanded="false" />
+                <element signature="e#21137#21138#0" expanded="false" />
+                <element signature="e#21354#21355#0" expanded="false" />
+                <element signature="e#21390#21391#0" expanded="false" />
+                <element signature="e#23081#23082#0" expanded="false" />
+                <element signature="e#23121#23122#0" expanded="false" />
+                <element signature="e#30681#30682#0" expanded="false" />
+                <element signature="e#30718#30719#0" expanded="false" />
+                <element signature="e#45372#45373#0" expanded="false" />
+                <element signature="e#45399#45400#0" expanded="false" />
+                <element signature="e#45456#45457#0" expanded="false" />
+                <element signature="e#45497#45498#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1040,8 +157,8 @@
       <file leaf-file-name="CONFIG.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/utils/CONFIG.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="54" column="99" selection-start-line="54" selection-start-column="99" selection-end-line="54" selection-end-column="99" />
+            <state relative-caret-position="93">
+              <caret line="125" column="27" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -1092,7 +209,7 @@
       <file leaf-file-name="RequestActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/inventory/RequestActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3655">
+            <state relative-caret-position="3825">
               <caret line="290" column="51" selection-start-line="290" selection-start-column="51" selection-end-line="290" selection-end-column="51" />
               <folding />
             </state>
@@ -1102,7 +219,7 @@
       <file leaf-file-name="ProductActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/product/ProductActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13209">
+            <state relative-caret-position="13634">
               <caret line="902" column="52" selection-start-line="902" selection-start-column="52" selection-end-line="902" selection-end-column="52" />
               <folding />
             </state>
@@ -1221,19 +338,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1280,6 +386,17 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1291,7 +408,7 @@
     <property name="AndroidRunProguardForReleaseBuild" value="false" />
     <property name="device.picker.selection" value="127.0.0.1:62001" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.SHOW" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d7effa1a4a322478cd29c826b52a0c118ad3db11/cmd/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/utils" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -2981,7 +2098,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/product/ProductActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13209">
+        <state relative-caret-position="13634">
           <caret line="902" column="52" selection-start-line="902" selection-start-column="52" selection-end-line="902" selection-end-column="52" />
           <folding />
         </state>
@@ -3013,7 +2130,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/inventory/RequestActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3655">
+        <state relative-caret-position="3825">
           <caret line="290" column="51" selection-start-line="290" selection-start-column="51" selection-end-line="290" selection-end-column="51" />
           <folding />
         </state>
@@ -3023,7 +2140,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5440">
           <caret line="391" column="50" selection-start-line="391" selection-start-column="50" selection-end-line="391" selection-end-column="50" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#15217#15218#0" expanded="false" />
+            <element signature="e#15259#15260#0" expanded="false" />
+            <element signature="e#15878#15879#0" expanded="false" />
+            <element signature="e#15920#15921#0" expanded="false" />
+            <element signature="e#16329#16330#0" expanded="false" />
+            <element signature="e#16369#16370#0" expanded="false" />
+            <element signature="e#16584#16585#0" expanded="false" />
+            <element signature="e#16620#16621#0" expanded="false" />
+            <element signature="e#19858#19859#0" expanded="false" />
+            <element signature="e#19900#19901#0" expanded="false" />
+            <element signature="e#20486#20487#0" expanded="false" />
+            <element signature="e#20526#20527#0" expanded="false" />
+            <element signature="e#20809#20810#0" expanded="false" />
+            <element signature="e#20849#20850#0" expanded="false" />
+            <element signature="e#21081#21082#0" expanded="false" />
+            <element signature="e#21137#21138#0" expanded="false" />
+            <element signature="e#21354#21355#0" expanded="false" />
+            <element signature="e#21390#21391#0" expanded="false" />
+            <element signature="e#23081#23082#0" expanded="false" />
+            <element signature="e#23121#23122#0" expanded="false" />
+            <element signature="e#30681#30682#0" expanded="false" />
+            <element signature="e#30718#30719#0" expanded="false" />
+            <element signature="e#45372#45373#0" expanded="false" />
+            <element signature="e#45399#45400#0" expanded="false" />
+            <element signature="e#45456#45457#0" expanded="false" />
+            <element signature="e#45497#45498#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3083,8 +2228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MainApp/src/com/mahkota_company/android/utils/CONFIG.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="54" column="99" selection-start-line="54" selection-start-column="99" selection-end-line="54" selection-end-column="99" />
+        <state relative-caret-position="93">
+          <caret line="125" column="27" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="27" />
           <folding />
         </state>
       </provider>
