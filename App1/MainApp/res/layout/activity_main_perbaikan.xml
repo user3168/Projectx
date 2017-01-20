@@ -217,8 +217,7 @@
                 <EditText
                     android:id="@+id/supplier_et_gps"
                     android:layout_width="0dip"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
+                    android:layout_height="0dp"
                     android:layout_marginRight="10dip"
                     android:textColor="@color/black"
                     android:background="@drawable/description_back_shape"

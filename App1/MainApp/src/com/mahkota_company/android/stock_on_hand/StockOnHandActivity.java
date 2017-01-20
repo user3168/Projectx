@@ -215,7 +215,10 @@ public class StockOnHandActivity extends ActionBarActivity implements
 						.getKode_product();
 				String harga_jual = stock_on_hand_from_db.get(i)
 						.getHarga_jual();
-				String stock = stock_on_hand_from_db.get(i).getStock();
+				String stockpcs = stock_on_hand_from_db.get(i).getStockpcs();
+				String stockrcg = stock_on_hand_from_db.get(i).getStockrcg();
+				String stockpck = stock_on_hand_from_db.get(i).getStockpck();
+				String stockdus = stock_on_hand_from_db.get(i).getStockdus();
 
 				StockOnHand stockOnHand = new StockOnHand();
 				stockOnHand.setId_stock_on_hand(id_stock_on_hand);
@@ -231,7 +234,10 @@ public class StockOnHandActivity extends ActionBarActivity implements
 				stockOnHand.setNama_product(nama_product);
 				stockOnHand.setKode_product(kode_product);
 				stockOnHand.setHarga_jual(harga_jual);
-				stockOnHand.setStock(stock);
+				stockOnHand.setStockpcs(stockpcs);
+				stockOnHand.setStockrcg(stockrcg);
+				stockOnHand.setStockpck(stockpck);
+				stockOnHand.setStockdus(stockdus);
 				stockOnHand_list.add(stockOnHand);
 			}
 			cAdapter = new ListViewAdapter(this,
@@ -347,7 +353,10 @@ public class StockOnHandActivity extends ActionBarActivity implements
 						stockOnHand.getNama_product(),
 						stockOnHand.getKode_product(),
 						String.valueOf(stockOnHand.getHarga_jual()),
-						String.valueOf(stockOnHand.getStock()));
+						String.valueOf(stockOnHand.getStockpcs()),
+						String.valueOf(stockOnHand.getStockrcg()),
+						String.valueOf(stockOnHand.getStockpck()),
+						String.valueOf(stockOnHand.getStockdus()));
 
 			}
 			return null;
@@ -413,7 +422,8 @@ public class StockOnHandActivity extends ActionBarActivity implements
 			final String kode_customer, final String alamat,
 			final String nama_lengkap, final String nama_product,
 			final String kode_product, final String harga_jual,
-			final String stock) {
+			final String stockpcs, final String stockrcg,
+			final String stockpck,final String stockdus) {
 		HttpClient httpclient = new DefaultHttpClient();
 		HttpPost httppost = new HttpPost(url);
 		String responseString = null;
@@ -443,7 +453,10 @@ public class StockOnHandActivity extends ActionBarActivity implements
 			entity.addPart("nama_product", new StringBody(nama_product));
 			entity.addPart("kode_product", new StringBody(kode_product));
 			entity.addPart("harga_jual", new StringBody(harga_jual));
-			entity.addPart("stock", new StringBody(stock));
+			entity.addPart("stockpcs", new StringBody(stockpcs));
+			entity.addPart("stockrcg", new StringBody(stockrcg));
+			entity.addPart("stockpck", new StringBody(stockpck));
+			entity.addPart("stockdus", new StringBody(stockdus));
 
 			httppost.setEntity(entity);
 

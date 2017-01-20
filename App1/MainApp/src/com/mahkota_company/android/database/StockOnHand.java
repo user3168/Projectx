@@ -15,7 +15,10 @@ public class StockOnHand {
 	private String nama_product;
 	private String kode_product;
 	private String harga_jual;
-	private String stock;
+	private String stockpcs;
+	private String stockrcg;
+	private String stockpck;
+	private String stockdus;
 
 	public StockOnHand() {
 
@@ -27,7 +30,7 @@ public class StockOnHand {
 			String time_stock_on_hand, String deskripsi, String username,
 			String kode_customer, String alamat, String nama_lengkap,
 			String nama_product, String kode_product, String harga_jual,
-			String stock) {
+			String stockpcs, String stockrcg, String stockpck, String stockdus) {
 		this.id_stock_on_hand = id_stock_on_hand;
 		this.nomer_stock_on_hand = nomer_stock_on_hand;
 		this.nomer_stock_on_hand_detail = nomer_stock_on_hand_detail;
@@ -41,7 +44,10 @@ public class StockOnHand {
 		this.nama_product = nama_product;
 		this.kode_product = kode_product;
 		this.harga_jual = harga_jual;
-		this.stock = stock;
+		this.stockpcs = stockpcs;
+		this.stockrcg = stockrcg;
+		this.stockpck = stockpck;
+		this.stockdus = stockdus;
 
 	}
 
@@ -149,12 +155,36 @@ public class StockOnHand {
 		this.harga_jual = harga_jual;
 	}
 
-	public String getStock() {
-		return stock;
+	public String getStockpcs() {
+		return stockpcs;
 	}
 
-	public void setStock(String stock) {
-		this.stock = stock;
+	public void setStockpcs(String stockpcs) {
+		this.stockpcs = stockpcs;
+	}
+
+	public String getStockrcg() {
+		return stockrcg;
+	}
+
+	public void setStockrcg(String stockrcg) {
+		this.stockrcg = stockrcg;
+	}
+
+	public String getStockpck() {
+		return stockpck;
+	}
+
+	public void setStockpck(String stockcpk) {
+		this.stockpck = stockpck;
+	}
+
+	public String getStockdus() {
+		return stockdus;
+	}
+
+	public void setStockdus(String stockdus) {
+		this.stockdus = stockdus;
 	}
 
 }

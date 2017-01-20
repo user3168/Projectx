@@ -113,7 +113,6 @@ public class CheckCustomer extends ActionBarActivity implements
 	private TextView tvKodeCustomer;
 	private TextView tvNamaCustomer;
 	private TextView tvNamaAlamat;
-	private TextView tvgps;
     private String response;
     private Customer customer;
 	private Button chat;
@@ -132,7 +131,6 @@ public class CheckCustomer extends ActionBarActivity implements
 		tvKodeCustomer = (TextView) findViewById(R.id.activity_customer_title_kode_customer);
 		tvNamaCustomer = (TextView) findViewById(R.id.activity_customer_title_nama_customer);
 		tvNamaAlamat = (TextView) findViewById(R.id.activity_customer_title_alamat_customer);
-		tvgps = (TextView) findViewById(R.id.gps);
 		tvKodeCustomer.setTypeface(typefaceSmall);
 		tvNamaCustomer.setTypeface(typefaceSmall);
 		tvNamaAlamat.setTypeface(typefaceSmall);

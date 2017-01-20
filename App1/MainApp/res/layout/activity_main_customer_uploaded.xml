@@ -52,14 +52,6 @@
                     android:orientation="vertical"
                     android:padding="15dip" >
 
-                    <TextView
-                        android:id="@+id/gps"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="Gps Disini"
-                        android:layout_marginBottom="10dp"
-                        android:textColor="#000000"/>
-
                     <EditText
                         android:id="@+id/activity_customer_edittext_search"
                         android:layout_width="fill_parent"

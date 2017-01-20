@@ -268,7 +268,10 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 	private static final String KEY_STOCK_ON_HAND_NAMA_PRODUCT = "nama_product";
 	private static final String KEY_STOCK_ON_HAND_KODE_PRODUCT = "kode_product";
 	private static final String KEY_STOCK_ON_HAND_HARGA_JUAL = "harga_jual";
-	private static final String KEY_STOCK_ON_HAND_STOCK = "stock";
+	private static final String KEY_STOCK_ON_HAND_STOCKPCS = "stockpcs";
+	private static final String KEY_STOCK_ON_HAND_STOCKRCG = "stockrenceng";
+	private static final String KEY_STOCK_ON_HAND_STOCKPCK = "stockpack";
+	private static final String KEY_STOCK_ON_HAND_STOCKDUS = "stockdus";
 
 	// SALES_ORDER Table Columns names
 	private static final String KEY_SALES_ORDER_ID_SALES_ORDER = "id_sales_order";
@@ -572,7 +575,10 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 				+ KEY_STOCK_ON_HAND_NAMA_PRODUCT + " TEXT,"
 				+ KEY_STOCK_ON_HAND_KODE_PRODUCT + " TEXT,"
 				+ KEY_STOCK_ON_HAND_HARGA_JUAL + " TEXT,"
-				+ KEY_STOCK_ON_HAND_STOCK + " TEXT" + ")";
+				+ KEY_STOCK_ON_HAND_STOCKPCS + " TEXT,"
+				+ KEY_STOCK_ON_HAND_STOCKRCG + " TEXT,"
+				+ KEY_STOCK_ON_HAND_STOCKPCK + " TEXT,"
+				+ KEY_STOCK_ON_HAND_STOCKDUS + " TEXT"	+ ")";
 		db.execSQL(CREATE_TABLE_STOCK_ON_HAND);
 
 		String CREATE_TABLE_SALES_ORDER = "CREATE TABLE " + TABLE_SALES_ORDER
@@ -1080,7 +1086,10 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 		values.put(KEY_STOCK_ON_HAND_KODE_PRODUCT,
 				stockOnHand.getKode_product());
 		values.put(KEY_STOCK_ON_HAND_HARGA_JUAL, stockOnHand.getHarga_jual());
-		values.put(KEY_STOCK_ON_HAND_STOCK, stockOnHand.getStock());
+		values.put(KEY_STOCK_ON_HAND_STOCKPCS, stockOnHand.getStockpcs());
+		values.put(KEY_STOCK_ON_HAND_STOCKRCG, stockOnHand.getStockrcg());
+		values.put(KEY_STOCK_ON_HAND_STOCKPCK, stockOnHand.getStockpck());
+		values.put(KEY_STOCK_ON_HAND_STOCKDUS, stockOnHand.getStockdus());
 
 		// Inserting Row
 		db.insert(TABLE_STOCK_ON_HAND, null, values);
@@ -3436,7 +3445,10 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 					stockOnHand.setNama_product(cursor.getString(10));
 					stockOnHand.setKode_product(cursor.getString(11));
 					stockOnHand.setHarga_jual(cursor.getString(12));
-					stockOnHand.setStock(cursor.getString(13));
+					stockOnHand.setStockpcs(cursor.getString(13));
+					stockOnHand.setStockrcg(cursor.getString(14));
+					stockOnHand.setStockpck(cursor.getString(15));
+					stockOnHand.setStockdus(cursor.getString(16));
 
 					// Adding stock_on_hand_list to list
 					stock_on_hand_list.add(stockOnHand);
@@ -3486,7 +3498,10 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 					stockOnHand.setNama_product(cursor.getString(10));
 					stockOnHand.setKode_product(cursor.getString(11));
 					stockOnHand.setHarga_jual(cursor.getString(12));
-					stockOnHand.setStock(cursor.getString(13));
+					stockOnHand.setStockpcs(cursor.getString(13));
+					stockOnHand.setStockrcg(cursor.getString(14));
+					stockOnHand.setStockpck(cursor.getString(15));
+					stockOnHand.setStockdus(cursor.getString(16));
 
 					// Adding stock_on_hand_list to list
 					stock_on_hand_list.add(stockOnHand);
@@ -3795,7 +3810,10 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 					stockOnHand.setNama_product(cursor.getString(10));
 					stockOnHand.setKode_product(cursor.getString(11));
 					stockOnHand.setHarga_jual(cursor.getString(12));
-					stockOnHand.setStock(cursor.getString(13));
+					stockOnHand.setStockpcs(cursor.getString(13));
+					stockOnHand.setStockrcg(cursor.getString(14));
+					stockOnHand.setStockpck(cursor.getString(15));
+					stockOnHand.setStockdus(cursor.getString(16));
 
 					// Adding stock_on_hand_list to list
 					stock_on_hand_list.add(stockOnHand);

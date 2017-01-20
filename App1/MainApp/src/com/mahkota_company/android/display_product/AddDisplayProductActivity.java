@@ -32,6 +32,8 @@ import android.widget.Toast;
 import com.mahkota_company.android.database.Customer;
 import com.mahkota_company.android.database.DatabaseHandler;
 import com.mahkota_company.android.database.DisplayProduct;
+import com.mahkota_company.android.database.Jadwal;
+import com.mahkota_company.android.sales_order.SalesOrderActivity;
 import com.mahkota_company.android.utils.CONFIG;
 import com.mahkota_company.android.utils.SpinnerAdapter;
 import com.mahkota_company.android.R;
@@ -93,12 +95,14 @@ public class AddDisplayProductActivity extends FragmentActivity {
 		tvHeaderNamaCustomer.setTypeface(typefaceSmall);
 		tvHeaderNamaDisplayProduct.setTypeface(typefaceSmall);
 		tvHeaderDeskripsiDisplayProduct.setTypeface(typefaceSmall);
-		spinnerKodeCustomer = (Spinner) findViewById(R.id.activity_display_product_kode_customer_value);
 		customerList = new ArrayList<Customer>();
 		customerStringList = new ArrayList<String>();
 		SharedPreferences spPreferences = getSharedPrefereces();
 		String main_app_staff_id_wilayah = spPreferences.getString(
 				CONFIG.SHARED_PREFERENCES_STAFF_ID_WILAYAH, null);
+		String main_app_staff_username = spPreferences.getString(
+				CONFIG.SHARED_PREFERENCES_STAFF_USERNAME, null);
+		/*
 		if (main_app_staff_id_wilayah.length() > 0) {
 			List<Customer> dataCustomer = databaseHandler
 					.getAllCustomerActive(Integer
@@ -112,6 +116,33 @@ public class AddDisplayProductActivity extends FragmentActivity {
 				}
 			}
 		}
+		*/
+		if (main_app_staff_username.length() > 0) {
+			List<Jadwal> dataJadwal = databaseHandler
+					.getAllJadwalWhereKodeStaffAndGroupByCustomer(main_app_staff_username);
+			List<Customer> dataCustomer = new ArrayList<Customer>();
+			for (Jadwal jadwal : dataJadwal) {
+				Customer customer = new Customer(0, jadwal.getKode_customer(),
+						null, null, null, null, jadwal.getNama_lengkap(), null,
+						jadwal.getId_wilayah(), null, null, null, 0, null,
+						null, null, 0, null, null, null, null, null, null, null,
+						0, null, null, null,null, null, null, null, null, null,
+						null, null,0, null,null,null,null,null);
+				dataCustomer.add(customer);
+
+			}
+			for (Customer customer : dataCustomer) {
+				int countJadwal = databaseHandler.getCountSalesOrder(customer
+						.getKode_customer());
+				if (countJadwal == 0) {
+					customerList.add(customer);
+					customerStringList.add(customer.getKode_customer());
+				}
+			}
+		}else {
+			gotoSalesOrder();
+		}
+
 		etNamaCustomer.setEnabled(false);
 
 		// ArrayAdapter<String> adapterCustomer = new ArrayAdapter<String>(this,
@@ -132,6 +163,8 @@ public class AddDisplayProductActivity extends FragmentActivity {
 								.getCustomerByKodeCustomer(customerStringList
 										.get(position));
 						etNamaCustomer.setText(customer.getNama_lengkap());
+						kodeCustomer = customerStringList.get(position);
+						etNamaCustomer.setText(customer.getNama_toko());
 						kodeCustomer = customerStringList.get(position);
 					}
 
@@ -337,6 +370,12 @@ public class AddDisplayProductActivity extends FragmentActivity {
 	private SharedPreferences getSharedPrefereces() {
 		return act.getSharedPreferences(CONFIG.SHARED_PREFERENCES_NAME,
 				Context.MODE_PRIVATE);
+	}
+
+	public void gotoSalesOrder() {
+		Intent i = new Intent(this, DisplayProductActivity.class);
+		startActivity(i);
+		finish();
 	}
 
 	@Override

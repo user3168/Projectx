@@ -106,7 +106,7 @@
     <string name="app_inventory_physical_counting_textview_nama_product">Nama Product</string>
     <string name="app_inventory_physical_counting_textview_stock_van">Stock Van</string>
     <string name="app_inventory_physical_counting_textview_sisa_stock">Sisa Stock</string>
-    <string name="app_inventory_physical_counting_failed_empty_data_stock_van">Mohon mendownload data stock summary !</string>
+    <string name="app_inventory_physical_counting_failed_empty_data_stock_van">Download data stock summary di menu inventory terlebih dahulu!</string>
     <string name="app_inventory_unload_product_target_penjualan_processing">Proses download target penjualan...</string>
     <string name="app_inventory_unload_product_target_penjualan_processing_download_failed">Mohon periksa koneksi internet anda, untuk download data target penjualan dari server !</string>
     <string name="app_inventory_unload_product_target_penjualan_button_add_target_penjualan">Add TP</string>

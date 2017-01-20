@@ -140,7 +140,11 @@ public class DetailStockOnHandActivity extends FragmentActivity {
 				updateListViewDetailOrder(new DetailSalesOrder(count,
 						stockOnHand.getNama_product(),
 						stockOnHand.getKode_product(),
-						stockOnHand.getHarga_jual(), stockOnHand.getStock()));
+						stockOnHand.getHarga_jual(),
+						stockOnHand.getStockpcs(),
+						stockOnHand.getStockrcg(),
+						stockOnHand.getStockpck(),
+						stockOnHand.getStockdus()));
 				count += 1;
 			}
 		}
@@ -232,8 +236,10 @@ public class DetailStockOnHandActivity extends FragmentActivity {
 								.getText().toString());
 						stockOnHand.setHarga_jual(detailSalesOrder
 								.getHarga_jual());
-						stockOnHand
-								.setStock(detailSalesOrder.getJumlah_order());
+						stockOnHand.setStockpcs(detailSalesOrder.getJumlah_order());
+						stockOnHand.setStockrcg(detailSalesOrder.getJumlah_order1());
+						stockOnHand.setStockpck(detailSalesOrder.getJumlah_order2());
+						stockOnHand.setStockdus(detailSalesOrder.getJumlah_order3());
 						stockOnHand.setKode_customer(etKodeCustomer.getText()
 								.toString());
 						stockOnHand.setNama_lengkap(etNamaCustomer.getText()

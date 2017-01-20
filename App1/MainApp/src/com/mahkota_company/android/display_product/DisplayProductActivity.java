@@ -58,6 +58,7 @@ import com.mahkota_company.android.customer.CustomerActivity;
 import com.mahkota_company.android.database.Customer;
 import com.mahkota_company.android.database.DatabaseHandler;
 import com.mahkota_company.android.database.DisplayProduct;
+import com.mahkota_company.android.database.Jadwal;
 import com.mahkota_company.android.database.Request_load;
 import com.mahkota_company.android.inventory.InventoryActivity;
 
@@ -134,9 +135,57 @@ public class DisplayProductActivity extends ActionBarActivity implements
 			@Override
 			public void onClick(View v) {
 				SharedPreferences spPreferences = getSharedPrefereces();
+				String main_app_staff_username = spPreferences.getString(
+						CONFIG.SHARED_PREFERENCES_STAFF_USERNAME, null);
 				String main_app_staff_id_wilayah = spPreferences.getString(
 						CONFIG.SHARED_PREFERENCES_STAFF_ID_WILAYAH, null);
-				if (main_app_staff_id_wilayah.length() > 0) {
+				if (main_app_staff_username.length() > 0) {
+					int countData = databaseHandler.getCountJadwal();
+					if (countData == 0) {
+						String msg = getApplicationContext()
+								.getResources()
+								.getString(
+										R.string.app_sales_order_no_data_jadwal);
+						showCustomDialog(msg);
+					} else {
+						List<Jadwal> dataJadwal = databaseHandler
+								.getAllJadwalWhereKodeStaffAndGroupByCustomer(main_app_staff_username);
+						List<Customer> dataCustomer = new ArrayList<Customer>();
+						for (Jadwal jadwal : dataJadwal) {
+							Customer customer = new Customer(0, jadwal
+									.getKode_customer(), null, null, null,
+									null, jadwal.getNama_lengkap(), null,
+									jadwal.getId_wilayah(), null, null, null,
+									0, null, null, null, 0, null, null, null,
+									null, null, null, null, 0, null, null, null,
+									null, null, null, null, null, null, null,null,
+									0,null,null,null,null,null);
+							dataCustomer.add(customer);
+
+						}
+
+						boolean containCustomer = false;
+						for (Customer customer : dataCustomer) {
+							int countJadwal = databaseHandler
+									.getCountSalesOrder(customer
+											.getKode_customer());
+							if (countJadwal == 0) {
+								containCustomer = true;
+								break;
+							}
+						}
+						if (containCustomer) {
+							gotoTambahDisplayProduct();
+						} else {
+							String msg = getApplicationContext()
+									.getResources()
+									.getString(
+											R.string.app_sales_order_failed_to_add);
+							showCustomDialog(msg);
+						}
+					}
+				}
+				/*if (main_app_staff_id_wilayah.length() > 0) {
 					List<Customer> dataCustomer = databaseHandler
 							.getAllCustomerActive(Integer
 									.parseInt(main_app_staff_id_wilayah));
@@ -161,6 +210,7 @@ public class DisplayProductActivity extends ActionBarActivity implements
 					}
 
 				}
+				*/
 			}
 		});
 

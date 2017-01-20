@@ -173,7 +173,20 @@ public class SuperVisor extends ActionBarActivity implements
 
 		@Override
 		public void onClick(View v) {
+			if (isRunningDummyVersion()) {
+				gotoSalesKanvas();
+			} else {
+				int countProduct = databaseHandler.getCountStockVan();
+				if (countProduct == 0) {
+					String msg = getApplicationContext()
+							.getResources()
+							.getString(
+									R.string.app_inventory_physical_counting_failed_empty_data_stock_van);
+					showCustomDialog(msg);
+				} else {
 					gotoSalesKanvas();
+				}
+			}
 		}
 	};
 

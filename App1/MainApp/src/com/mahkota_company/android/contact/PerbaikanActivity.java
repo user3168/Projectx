@@ -134,8 +134,6 @@ public class PerbaikanActivity extends FragmentActivity {
 		gps = (EditText) findViewById(R.id.supplier_et_gps);
 		alamat = (EditText) findViewById(R.id.supplier_et_alamat);
 
-		alamat.setEnabled(false);
-
 		menuBackButton = (ImageView) findViewById(R.id.menuBackButton);
 
 		imageView1 = (ImageView) findViewById(R.id.supplier_foto1);
